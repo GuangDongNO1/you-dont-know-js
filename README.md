@@ -5,25 +5,25 @@
 
 #### 第一部分 up & going（起步）
 
-+ [Chapter 1: Into Programming（开始编程)](起步/ch1.md)
++ [Chapter 1: Into Programming（开始编程）](起步/ch1.md)
 
-+ Chapter 2: Into JavaScript（了解JavaScript）
++ [Chapter 2: Into JavaScript（进入JavaScript）](起步/ch2.md)
 
-+ Chapter 3: Into YDKJS（了解You-Dont-Know—Js）
++ Chapter 3: Into YDKJS（进入You-Dont-Know—Js）
 
 #### 第二部分 Scope & Closures（作用域和闭包）
 
-+ Chapter 1: What is Scope?（什么是作用域）
++ [Chapter 1: What is Scope?（什么是作用域）](作用域和闭包/ch1.md)
 
-+ Chapter 2: Lexical Scope(词法作用域)
++ [Chapter 2: Lexical Scope(词法作用域)](作用域和闭包/ch2.md)
 
-+ Chapter 3: Function vs. Block Scope（函数作用域和块级作用域）
++ [Chapter 3: Function vs. Block Scope（函数作用域和块级作用域）](作用域和闭包/ch3.md)
 
-+ Chapter 4: Hoistring（提升）
++ [Chapter 4: Hoistring（提升）](作用域和闭包/ch4.md)
 
-+ Chapter 5: Scope Closures（作用域闭包）
++ [Chapter 5: Scope Closures（作用域闭包）](作用域和闭包/ch5.md)
 
-+ Appendix A: Dynamic Scope（附录A：动态作用域）
++ [Appendix A: Dynamic Scope（附录A：动态作用域）](作用域和闭包/apA.md)
 
 + Appendix B: Polyfilling Block Scope（附录B：块级作用域的替代方案）
 
